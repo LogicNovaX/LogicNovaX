@@ -25,7 +25,7 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/LogicNovaX/DJS-v14-Template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=logicnovax&repo=DiscordJS-V14-Bot-Template&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=logicnovax&repo=DJS-v14-Template&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
   </a>
 
 ## Discord Server
