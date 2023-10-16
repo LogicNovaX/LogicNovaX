@@ -30,7 +30,7 @@
 
 ## Discord Server
 <div>
-  <a href="https://discord.gg/E6VFACWu5V">
-     <img src="https://discord.com/api/guilds/918611797194465280/widget.png?style=banner3">
-  </a>
+<a href="https://discord.gg/XSukuBrTza">
+  <img src="https://discord.com/api/guilds/1116117589161152552/widget.png?style=banner3">
+</a>
 </div>
