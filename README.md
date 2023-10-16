@@ -2,8 +2,6 @@
 <p align="center">
   <br>
   <img src="https://lanyard.cnrad.dev/api/1116113298518196304">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=logicnovax&label=Profile%20views:&color=brightgreen">
 </p>
 
 ## Skills & Tools
