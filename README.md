@@ -9,7 +9,7 @@
 ## Skills & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,bash,html,css,cassandra,mongodb,prisma,mysql,vscode,nodejs,git,github,stackoverflow,arduino&theme=dark">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,bash,html,css,mongodb,prisma,vscode,nodejs,git,github,stackoverflow,arduino&theme=dark">
     <br>
     <br>
 </p>
